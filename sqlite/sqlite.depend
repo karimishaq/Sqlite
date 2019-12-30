@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1577667094 source:d:\backup\sqlite\test.cpp
+	<stdio.h>
+	<stdlib.h>
+	<sqlite3.h>
+
+1570793188 d:\backup\sqlite\library\sqlite3.h
+	<stdarg.h>
+
